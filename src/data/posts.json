@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "next.js13-udemy",
+      "title": "Next.js13をUdemyで学ぶ",
+      "content": "Udemy教材でNext.js13を学んでいます。",
+      "createdAt": "2024/02/13"
+    },
+    {
+      "id": "json-server-udemy",
+      "title": "json-serverをUdemyで学ぶ",
+      "content": "json-serverは、簡単にREST APIを構築できるツールです。ローカルマシン上にJSONファイルを置くだけで、RESTfulなAPIを作成し、GET、POST、PUT、DELETEなどのHTTPリクエストを使用してデータの取得、作成、更新、削除を行うことができます。",
+      "createdAt": "2024/02/14"
+    },
+    {
+      "id": "ISR-next.js13",
+      "title": "増分静的再生 (ISR)",
+      "content": "jNext.js を使用すると、サイトを構築した後に静的ページを作成または更新できます。増分静的再生成 (ISR) を使用すると、サイト全体を再構築することなく、ページごとに静的生成を使用できます。ISR を使用すると、数百万ページに拡張しながら静的な利点を維持できます。",
+      "createdAt": "2024/02/15"
+    },
+    {
+      "id": "next.js-new-article",
+      "title": "新規記事投稿",
+      "content": "新規記事の本文です",
+      "createdAt": "2024-02-19T12:40:08.891Z"
+    }
+  ]
+}
